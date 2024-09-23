@@ -24,6 +24,3 @@ Technologies Used:
 - RPA
 - Automation
  
-Target Audience:
-- Individuals seeking to automate repetitive Notepad tasks
-- Businesses looking to increase productivity and efficiency
